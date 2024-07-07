@@ -9,3 +9,5 @@
 *.jpg
 *.pt
 *.pth
+
+.venv/
