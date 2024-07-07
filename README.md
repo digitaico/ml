@@ -1,11 +1,9 @@
 # X MACHINE LEARNING PROJECTS
 
-## This Repo holds a group of ML projects created by me, integrating existing Computer Vision, Translation models
-
-Audio, Data and others.
+## This Repo holds a group of ML projects created by me, integrating existing Computer Vision, Translation models Audio, Data and others.
 
 | Ordinal | Date       | Category          | Stack     | -   |
 | ------- | ---------- | ----------------- | --------- | --- |
 | 1       | 2024-07-05 | Pose Estimation   | MediaPipe |
-| 2       | 2024-07-06 | 3D reconstruction | OpenPose  |
+| 2       | 2024-07-06 | 3D reconstruction | PifuHd    |
 | 3       | 2024-07-07 |                   |           |
