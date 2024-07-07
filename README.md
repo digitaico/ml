@@ -4,6 +4,6 @@
 
 | Ordinal | Date       | Category          | Stack     | -   |
 | ------- | ---------- | ----------------- | --------- | --- |
-| 1       | 2024-07-05 | Pose Estimation   | MediaPipe |
-| 2       | 2024-07-06 | 3D reconstruction | PifuHd    |
-| 3       | 2024-07-07 |                   |           |
+| 1       | 2024-07-05 | Pose Estimation   | MediaPipe |     |
+| 2       | 2024-07-06 | 3D reconstruction | PifuHd    |     |
+| 3       | 2024-07-07 | Audio Split       | librosa   |     |
