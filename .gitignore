@@ -7,15 +7,18 @@
 lib/
 build/
 downloads/
+dist/
 
-*.mp4
-*.webm
 *.mp3
 *.wav
 
-*.png
+*.webm
+*.mp4
+
 *.png
 *.jpg
+*.jpeg
+*.tiff
 
 *.pt
 *.pth
