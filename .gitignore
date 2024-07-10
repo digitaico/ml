@@ -1,14 +1,24 @@
 .env
+.venv/
 
-.git
-*.png
+.ipynb_checkpoints/
+
+.git/
+lib/
+build/
+downloads/
+
 *.mp4
 *.webm
 *.mp3
 *.wav
+
+*.png
 *.png
 *.jpg
+
 *.pt
 *.pth
+*.obj
 
-.venv/
+
