@@ -9,5 +9,5 @@
 | 3       | 2024-07-07 | Audio Split             | librosa        |     |
 | 4       | 2024-07-08 | Create a NN from scrath | Numpy          |     |
 | 5       | 2024-07-09 | Basic Numpy             | Numpy          |     |
-| 5       | 2024-07-10 | HandsOn Meshes          | Numpy, Pyvista |     |
-| 5       | 2024-07-11 | HandsOn Meshes II       | Numpy, Pyvista |     |
+| 6       | 2024-07-10 | HandsOn Meshes          | Numpy, Pyvista |     |
+| 7       | 2024-07-11 | HandsOn Meshes II       | Numpy, Pyvista |     |
