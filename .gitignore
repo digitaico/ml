@@ -24,4 +24,5 @@ dist/
 *.pth
 *.obj
 
+*.csv
 
