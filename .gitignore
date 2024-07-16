@@ -29,3 +29,6 @@ dist/
 
 *.csv
 
+*.h5
+*.keras
+
