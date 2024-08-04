@@ -13,3 +13,4 @@
 | 7       | 2024-07-11 | HandsOn Meshes II               | Numpy, Pyvista  |     |
 | 8       | 2024-07-20 | CV Classification Fashion-MNIST | Numpy, Keras    |     |
 | 9       | 2024-07-20 | Regression Model                | Pandas, Sklearn |     |
+| 10  | 2024-08-04 | YOLO Trained Object Detection | YOLO |     |
