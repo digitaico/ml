@@ -38,3 +38,4 @@ dist/
 *.key
 *.cert
 
+*-ubyte
