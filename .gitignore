@@ -39,3 +39,4 @@ dist/
 *.cert
 
 *-ubyte
+*-ubyte.gz
