@@ -15,3 +15,4 @@
 | 9       | 2024-07-20 | Regression Model                | Pandas, Sklearn |     |
 | 10      | 2024-08-04 | YOLO Trained Object Detection   | YOLO            |     |
 | 11      | 2024-08-19 | NN MNIST Classifier             | PyTorch         |     |
+| 12      | 2024-09-07 | GANN MNIST Classifier       | PyTorch         |     |
