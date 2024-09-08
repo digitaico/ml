@@ -17,3 +17,4 @@
 | 11      | 2024-08-19 | NN MNIST Classifier             | PyTorch         |     |
 | 12      | 2024-09-07 | GANN MNIST Generator  | PyTorch         |     |
 | 13      | 2024-09-07 | PYOPENCL Examples   | PyOpenCl         |     |
+| 14      | 2024-09-09 | POSE ESTIMATION for Pushups   | YOLOv8         |     |
