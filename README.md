@@ -15,6 +15,7 @@
 | 9       | 2024-07-20 | Regression Model                | Pandas, Sklearn |     |
 | 10      | 2024-08-04 | YOLO Trained Object Detection   | YOLO            |     |
 | 11      | 2024-08-19 | NN MNIST Classifier             | PyTorch         |     |
-| 12      | 2024-09-07 | GANN MNIST Generator  | PyTorch         |     |
-| 13      | 2024-09-07 | PYOPENCL Examples   | PyOpenCl         |     |
-| 14      | 2024-09-09 | POSE ESTIMATION for Pushups   | YOLOv8         |     |
+| 12      | 2024-09-07 | GANN MNIST Generator            | PyTorch         |     |
+| 13      | 2024-09-07 | PYOPENCL Examples               | PyOpenCl        |     |
+| 14      | 2024-09-09 | POSE ESTIMATION for Pushups     | YOLOv8          |     |
+| 15      | 2024-09-14 | Basic OPENCV Manipulations      | OpenCV          |     |
