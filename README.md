@@ -20,3 +20,4 @@
 | 14      | 2024-09-09 | POSE ESTIMATION for Pushups     | YOLOv8          |     |
 | 15      | 2024-09-14 | Basic OPENCV Manipulations      | OpenCV          |     |
 | 16      | 2024-09-14 | Build a NN from Scratch         | Pytorch         |     |
+| 17      | 2024-09-15 | Build a Rgeression Model        | Pytorch         |     |
