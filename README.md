@@ -21,3 +21,4 @@
 | 15      | 2024-09-14 | Basic OPENCV Manipulations      | OpenCV          |     |
 | 16      | 2024-09-14 | Build a NN from Scratch         | Pytorch         |     |
 | 17      | 2024-09-15 | Build a Rgeression Model        | Pytorch         |     |
+| 18      | 2024-09-16 | Build a NN                      | PyTorch         |     |
